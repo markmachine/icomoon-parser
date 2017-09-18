@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "proc": "node index.js data.json"
+    "sample": "node index.js sample.json"
   },
   "keywords": [],
   "author": "",

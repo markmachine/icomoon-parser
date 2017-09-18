@@ -1,5 +1,5 @@
 const fs = require('fs');
-let FILE_IN, FILE_OUT = "formatted-output.js";
+let FILE_IN, FILE_OUT = "./output/formatted-output.js";
 
 if (process.argv.length > 2) {
   FILE_IN = process.argv[2];
