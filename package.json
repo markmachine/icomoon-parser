@@ -1,0 +1,13 @@
+{
+  "name": "moon-parser",
+  "version": "0.1.1",
+  "description": "Parse Icomoon selection JSON file for SVG name:path pairs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "proc": "node index.js data.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
